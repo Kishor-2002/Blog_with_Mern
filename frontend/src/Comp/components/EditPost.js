@@ -60,7 +60,7 @@ const EditPost = () => {
         <div>
             <a href="/dashboard">&larr; Back</a>
             <div className="admin-title">
-                <h2>View / Edit Post</h2>
+                <h2>View / Edit Blog</h2>
                 <button onClick={handleDelete} className="btn-delete btn">
                     Delete
                 </button>
