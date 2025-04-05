@@ -46,8 +46,8 @@ const Dashboard = ({loggedIn,setLoggedIn}) => {
     <div>
       {/* Index.js cpode start */}
         <div className="author">
-            <h1 className="author__heading">Hi, I am Kishor.</h1>
-            <p className="author__body">Web developer and content creator.</p>
+            <h1 className="author__heading">Welcome to our Blogs Site</h1>
+            <p className="author__body">Here you can read, edit and write blogs</p>
         </div>
 
         <img src="" alt="person looking out through window" className="hero-image" width="981" height="528" />
