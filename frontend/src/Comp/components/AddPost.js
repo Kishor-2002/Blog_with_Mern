@@ -27,7 +27,7 @@ const AddPost = () => {
         <div>
             <a href="/dashboard">&larr; Back</a>
             <div className="admin-title">
-                <h2>Add New Post</h2>
+                <h2>Add New Blog</h2>
             </div>
 
             <form onSubmit={handleSubmit}>
